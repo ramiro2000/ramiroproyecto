@@ -15,10 +15,14 @@
     <h2>Hola esta es una pagina hecha de parte de Ramiro</h2>
     <h5>Nota: Tendremos que crear cuenta en algunas paginas y descargar algunos software para poder continuar con el proceso. </h5>
     <h3>Estos son los pasos que se deben de llevar a cabo para poder crear tu propia pagina en Heroku</h3>
-    <h5>Pasos a seguir: </h5>
-    <li> 1-Darte de alta en github.com </li>
-    <li> 2-Descargar git bash Windows version </li>
-    <li> 3-Crear una cuenta en Heroku </li>
+    <div id="pasos_a_seguir" class="instrucciones">
+      <h5>Pasos a seguir: </h5>
+      <ol>
+        <li>Darte de alta en github.com </li>
+        <li>Descargar git bash Windows version </li>
+        <li>Crear una cuenta en Heroku </li>
+      </ol>
+    </div>
     <h3> Una vez hechos los pasos anteriores vamos a continuar con la estructura de tu pagina. <h3>
     <div class="container">
       <div class="row">
@@ -57,4 +61,13 @@
 </html>
 <style>
   body { padding-top: 70px; }
+
+  .instrucciones{
+    border-color: #ddd;
+    border-width: 1px;
+    border-radius: 4px 4px 0 0;
+    border-style: solid;
+    padding: 45px 15px 15px;
+    margin: 0 -15px 15px;
+  }
 </style>
