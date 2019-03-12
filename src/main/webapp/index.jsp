@@ -6,6 +6,11 @@
 </head>
 
 <body bgcolor = pink>
+  <nav class="navbar navbar-default navbar-fixed-top">
+    <div class="container-fluid">
+      Aqui puedes incluir un logo o marca
+    </div>
+  </nav>
   <div class="container">
     <h2>Hola esta es una pagina hecha de parte de Ramiro</h2>
     <h5>Nota: Tendremos que crear cuenta en algunas paginas y descargar algunos software para poder continuar con el proceso. </h5>
@@ -47,5 +52,9 @@
             Listo ya has creado tu primer pagina en Heroku
     </div>
   </div>
+
 </body>
 </html>
+<style>
+  body { padding-top: 70px; }
+</style>
