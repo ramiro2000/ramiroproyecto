@@ -44,14 +44,16 @@
 
 
     <h2>Acontinuación veras algunos de los comandos y sus funciones. </h2>
-    <h3>Tamaño de letra</h3>
-    <ul>
-      <li> < h1 >< /h1 > Sirve para hacer el tamaño de letra grande. </li>
-      <li> < h2 >< /h2 > Sirve para hacer el tamaño de medio grande. </li>
-      <li> < h3 >< /h3 > Sirve para hacer el tamaño de medio. </li>
-      <li> < h4 >< /h4 > Sirve para hacer el tamaño de medio chica. </li>
-      <li> < h5 >< /h5 > Sirve para hacer el tamaño de letra chica. </li>
-    </ul>
+    <div  class="instrucciones">
+      <h3>Tamaño de letra</h3>
+      <ul>
+        <li> < h1 >< /h1 > Sirve para hacer el tamaño de letra grande. </li>
+        <li> < h2 >< /h2 > Sirve para hacer el tamaño de medio grande. </li>
+        <li> < h3 >< /h3 > Sirve para hacer el tamaño de medio. </li>
+        <li> < h4 >< /h4 > Sirve para hacer el tamaño de medio chica. </li>
+        <li> < h5 >< /h5 > Sirve para hacer el tamaño de letra chica. </li>
+      </ul>
+    </div>
     <div class="Listo ya has creado tu primer pagina en Heroku" role="alert">
             Listo ya has creado tu primer pagina en Heroku
     </div>
