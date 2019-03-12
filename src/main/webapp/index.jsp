@@ -18,15 +18,15 @@
     <div class="row">
 
         <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-           Titulo
+           -Titulo
         </div>
 
         <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-            Información
+            -Información
         </div>
 
         <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-            Estilo
+            -Estilo
         </div>
 
     </div>
@@ -35,6 +35,9 @@
 <p> El titulo es el nombre que llevara el encabezado de tu pagina. </p>
 <p> La información es todo aquello que quieres que muestrar en tu pagina. </p>
 <p> Estilo es el como quieres ver tu pagina, ya sea el tamaño de letra , color de fondo, posición de la informacion, etc. </p>
+
+<h3>Una vez completado los pasos anteriores deves de ir a la pagina de Heroku</h3>
+<h3>Despues debes de </h3>
 
 <h2>Acontinuación veras algunos de los comandos y sus funciones. </h2>
 <h3>Tamaño de letra</h3>
