@@ -67,7 +67,7 @@
     border-width: 1px;
     border-radius: 4px 4px 0 0;
     border-style: solid;
-    padding: 45px 15px 15px;
+    padding: 10px 15px 15px;
     margin: 0 -15px 15px;
   }
 </style>
