@@ -2,10 +2,10 @@
 <head>
 <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css ">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"> </script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"> </script> 
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"> </script>
 </head>
 
-<body bgcolor = pink>
+<body bgcolor = "pink">
   <div class="container">
     <h2>Hola esta es una pagina hecha de parte de Ramiro</h2>
     <h5>Nota: Tendremos que crear cuenta en algunas paginas y descargar algunos software para poder continuar con el proceso. </h5>
@@ -33,7 +33,13 @@
     <p> La información es todo aquello que quieres que muestrar en tu pagina. </p>
     <p> Estilo es el como quieres ver tu pagina, ya sea el tamaño de letra , color de fondo, posición de la informacion, etc. </p>
 
+    <div class= "container">
+    <h3>Ahora comenzaremos creando una app en Heroku <h3>
+    <li>-Debemos iniciar sesión en Heroku </li>
+    <li>-Despues abrir  </li>
 
+
+    </div>
     <h2>Acontinuación veras algunos de los comandos y sus funciones. </h2>
     <h3>Tamaño de letra</h3>
     <ul>
